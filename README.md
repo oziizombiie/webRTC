@@ -5,7 +5,6 @@ This coding test is designed to evaluate your technical understanding and adapta
 
 This project uses the Opentok video platform, SDK documentation can be found here: https://tokbox.com/developer/sdks/js/
  
- Please spend **no more** than two hours to complete.
 
 ## Instructions
 

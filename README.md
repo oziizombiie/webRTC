@@ -12,8 +12,8 @@ This project uses the Opentok video platform, SDK documentation can be found her
 1. Fork this repo to your local machine.
 2. Make an initial commit to your repo to indicate the start time.
 3. Sign Up for a free trial account with Opentok/Vonage: https://tokbox.com/account/user/signup
-4. Below is a set of add on features that need to be added along with descriptions of how they should function. Implement as many of these features as you can within the allotted time limit. There are a few features that are required, the other features are up to you to decide which ones you want to implement.
-5. After you have reached the 2 hour mark, commit and push your changes.
+4. Below is a set of add on features that need to be added along with descriptions of how they should function. Implement as many of these features as you can within a reasonable time limit . There are a few features that are required, the other features are up to you to decide which ones you want to implement.
+5. Once implemented, commit and push your changes.  Please know that we are looking for thought process, code quality and overall engineering leadership.  The count of features implemented is not as critical.
 6. Email a link to your github repo to the Mend representative that sent you to this test.
 
 ## Features

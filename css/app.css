@@ -19,11 +19,53 @@ body, html {
 }
 #publisher {
     position: absolute;
-    width: 360px;
-    height: 240px;
     bottom: 10px;
     left: 10px;
     z-index: 100;
     border: 3px solid white;
     border-radius: 3px;
+}
+
+#videos:hover .controls{
+    bottom: 0;
+    display: flex;
+    visibility: visible;
+    position: absolute;
+    transition: ease-in-out 1s;
+    opacity: 1;
+}
+
+.controls{
+    opacity: 0;
+    visibility: hidden;
+    display: none;
+    display: flex;
+    right: 0;
+    z-index: 99;
+}
+
+.controls div{
+    width: 40px;
+}
+img{
+    width: 100%;
+}
+
+#exit{
+    padding: 5px 15px;
+}
+#camera{
+    padding: 5px 15px;
+    
+}
+#audio{
+    padding: 5px 15px;
+    
+}
+
+.stop,.logout{
+    background-color: red;
+}
+.start,.login{
+    background-color: green;
 }
